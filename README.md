@@ -1,7 +1,7 @@
 #job_board
 job_board is a job offer website
 
-##Installation
+## Installation
 
 Use the package manager nodejs with Node Package Manager.
 After clone or install this projects and launch in the folder associate :
@@ -20,7 +20,7 @@ npm start
 -meanwhile npm install on vs code
 -and finally start with npm start
 
-### Usage
+## Usage
 
 ```javascript
 {
