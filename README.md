@@ -1,5 +1,6 @@
-#job_board
-job_board is a job offer website
+# job_board
+Job_board is a site allowing people to register for a job offer.
+It incorporates the principles of sites like Indeed (current school use)
 
 ## Installation
 
